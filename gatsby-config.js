@@ -3,7 +3,7 @@ module.exports = {
     title: `Shino Blog`,
     author: {
       name: `Shinoda Taishi`,
-      summary: `Frontend Developer。React.js(Next.js,Gatsby.js),GraphQL(Apollo)を利用したサービス開発を行っています。`,
+      summary: `stack:React.js(Next.js,Gatsby.js),GraphQL(Apollo)`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
